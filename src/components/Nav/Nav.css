@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+}
+a{
+    padding: 55px 20px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 900;
+    color: black;
+    transition-duration: .5s;
+}
+
+a:hover{
+    color: red;
+}
